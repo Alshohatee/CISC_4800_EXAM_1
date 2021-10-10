@@ -10,9 +10,9 @@ img {
     width: 50%;
 }
 
-.titleHeading .tableTitle {
-    font-size: 30px;
-    font-weight: 900;
+.titleHeading,
+.tableTitle {
+    font-size: 25px;
 }
 
 li {
@@ -36,4 +36,5 @@ th {
 footer {
     text-align: center;
     color: blue;
+    font-size: 30px;
 }
